@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/encrypted
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doxing.github.io
+  * I am encrypted (https://keybase.io/encrypted) on keybase.
+  * I have a public key with fingerprint 7733 4EDB 314A 9399 71BE  88DE 05DA 9C40 BFDA 11D2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101227c3d40de7ddf98bb21634dfe7c4979e7f3530bc3df7f7cba43d5a59a0927ab0a",
+            "fingerprint": "77334edb314a939971be88de05da9c40bfda11d2",
+            "host": "keybase.io",
+            "key_id": "05da9c40bfda11d2",
+            "kid": "0101227c3d40de7ddf98bb21634dfe7c4979e7f3530bc3df7f7cba43d5a59a0927ab0a",
+            "uid": "954d1bb83d80bb6f6e746b28f0de3e19",
+            "username": "encrypted"
+        },
+        "service": {
+            "hostname": "doxing.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450406261,
+    "expire_in": 157680000,
+    "prev": "51e5795cf88870d03052cdcd1016ae308a86a96bf32796b6a5053ff801a7d4ff",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJdbA1BFMfvpVptEFIlvDRGxEdubmZ3dnd2r4+qNlKJz1TxoLmd2Zm9
+d1Pu3u7uvXo1jRCiVaTxEYJKPVYQbQkaaUoQQqKNp0qq1EeIviA8YtbHk1fzcjJn
+fv//nHNy7k2dGCoKT3x9kSTXkavhx3c6MqEtXkOmCVCH5UCsCdTzX4HvYNzz4/U2
+AzEAJSjJMjYRUyDjmDHL0CmVJQ0pzOLYVAxscGwhFUEqIAtb2KREQUwlqkGgIWNC
+IQERYNmpBHfTrp3yhS3GCCmcUSQpxECGgSXKdZ1xqDJimAqkFiOSxGQhTDpeoBDF
+UeLxqO2InLjEf5f3L/+f6878sjNUhUmU6ojpkFLN0jhWNCrrljBHXDIC0ONuiuzk
+guYp082lfc5AcwSIdNY2eTDZoJU/CHMaxUCiCdtPZujvptKu4zums0O8Jn0/7cUC
+tZ9LB/guTuN/jOLUTjGhFYosdz3bSYGYJEjTtwNnSVGhAjVZkyKAN6Ztl8ftgFCx
+pkNxgn94VliqElexoZqWrusYMoigKpvMZGJwGuEI6kTXiKFRC8lYBI2oUEWWpUOJ
+YKZYFghaa0g5ICYjUSdJCE/PTqSIn3E5aL47sD0vFC4K5U+aEGxZqKhw+t/du1NR
+8GPttOHZoyMd+XuqHreisqG+6rpHxpSWB52Ni16Eo+6+M3O+rRzauXdwUU/erOGS
+Wk8ZPf7oXNub+Z9y8MjuW/tuaNn69XXlp1tqrrVp2RkT1qzpHzraH+7adrb02aqK
+1s7x9oKCwbfPMiW7x+rxzM2LS9s2dOR9PfzwNqi4FBmuRQ2tVbM+nH5d3P2jZ1n/
+sSeFS6/DkWL/5omvBU8PHooV120dHFmoZtv7jE1lF56/Y90LblUnaxb2ns/OBfsH
+5pV0n+m6Mm/X/FNHe1cXfn51f/RKrOX950krxqL2kpfTa09+GRu/BGD5yma4cXxP
+5fdtc3Lu28Tlygelyyf7H1dHi54eqO39CUD3Py8=
+=Undw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/encrypted
+
+==================================================================
+
